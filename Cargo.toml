@@ -1,4 +1,5 @@
 [package]
+license = "MIT"
 name = "neyman-pearson-gap"
 version = "0.1.0"
 edition = "2024"
